@@ -1,7 +1,6 @@
-x = 50
-y = 10
 
 
-print(x+y)
+
+print("okkkk")
 print("hello world")
 print("i am dulith")
